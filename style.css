@@ -1,5 +1,9 @@
 @media screen and (min-width: 768px) {
 
+body{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
 
 #header{
     position: fixed;/*header固定*/
@@ -258,6 +262,10 @@ font-family: 'Jost', sans-serif;
 
 @media screen and (max-width: 767px) {
  
+
+body{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
     #header{
         position: fixed;/*header固定*/
     
